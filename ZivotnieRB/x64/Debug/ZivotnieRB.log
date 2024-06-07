@@ -1,0 +1,10 @@
+﻿  Item.cpp
+  MyForm.cpp
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\MyForm.cpp(8,15): warning C4551: в вызове функции отсутствует список аргументов
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\MyForm.cpp(9,15): warning C4551: в вызове функции отсутствует список аргументов
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\MyForm.cpp(219,27): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\MyForm.cpp(219,24): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  ToggleSwitchForm.cpp
+  Создание кода...
+  DatabaseConnection.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ZivotnieRB.vcxproj -> K:\Для программ\source\repos\ZivotnieRB\x64\Debug\ZivotnieRB.exe

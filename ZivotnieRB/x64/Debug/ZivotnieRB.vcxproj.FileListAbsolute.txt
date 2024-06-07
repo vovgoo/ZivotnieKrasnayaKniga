@@ -1,0 +1,5 @@
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\x64\Debug\ZivotnieRB.vcxproj.AssemblyReference.cache
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\x64\Debug\ZivotnieRB.MyForm.resources
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\x64\Debug\ZivotnieRB.vcxproj.GenerateResource.cache
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\x64\Debug\ZivotnieRB.Item.resources
+K:\Для программ\source\repos\ZivotnieRB\ZivotnieRB\x64\Debug\ZivotnieRB.Spravka.resources
